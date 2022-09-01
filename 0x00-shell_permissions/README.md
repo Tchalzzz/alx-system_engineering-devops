@@ -1,1 +1,1 @@
-Shell permission scripts go iin here
+My name is Betty script.Changes the current userto Betty
