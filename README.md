@@ -1,1 +1,1 @@
-Read me for all my shell scripts
+Read me file that contains scripts for variables and expansions
